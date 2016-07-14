@@ -1,5 +1,6 @@
 import './RootApp.scss';
 import React from 'react';
+import 'materialize-css/bin/materialize';
 
 class App extends React.Component {
   render() {
